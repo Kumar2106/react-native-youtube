@@ -36,7 +36,7 @@ export default class Navbar extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
+    
   },
   navbar: {
     marginTop: 35,
